@@ -10,7 +10,7 @@ Suppose we have stored the symbols that occurred in Reels $1-5$ across some rows
 Additionally, we have computed the total amount of times any symbol occurred in reel $p$, given by the sum:
 
 ```math
-\Sigma_p = 0_1 \space + \space ... \space + \space 0_p
+\Sigma_p = 0_p \space + \space ... \space + \space 8_p
 ```
 
 We used the Excel function COUNTIF to count the occurrence of a given value in a certain column and then considered the sum of all occurrences.
