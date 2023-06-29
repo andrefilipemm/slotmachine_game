@@ -1,8 +1,5 @@
 # Mathematics of Slot Machines
 
-**Author:** André Filipe Monteiro Martins  
-**Date:** June 2023
-
 ## Introduction
 Consider a slot game machine with $5$ reels, a $(3\times5)$ play window, and one single payline. Each reel contains symbols labeled by numbers from $0$ to $8$, where $8$ is the symbol that pays the most. All reels spin independently of each other.
 
