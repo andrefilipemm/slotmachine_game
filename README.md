@@ -49,4 +49,4 @@ S_{3, 0} = 0_1 \times 0_2 \times 0_3 \times (\Sigma_4 - 0_4) \times (\Sigma_5 - 
 
 Similarly, for sequences of size two and one, there are five and three possibilities, respectively. The computations follow a similar pattern.
 
-I found that performing these calculations in Excel was exhausting, so I wrote a Python script using dictionaries and for loops to simplify the process, which you can find under the notebook folder.
+I found that performing these calculations in Excel was exhausting, so I wrote a Python script using dictionaries and for loops to simplify the process.
